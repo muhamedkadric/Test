@@ -1,3 +1,3 @@
 # Demo
 
-Trying this git thing that everyone talks about.
+Trying this git thing that everyone talks about!
